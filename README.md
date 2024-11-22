@@ -4,6 +4,9 @@
 ### Overview
 Instacart, an online grocery store, aims to refine its marketing strategy by delivering more targeted and relevant campaigns to its customers. To achieve this, they seek a data-driven analysis to uncover insights that will enhance customer segmentation and optimize their marketing efforts.
 
+### Use Case
+Perform exploratory data analysis of Instacart’s customer purchasing behavior to derive actionable insights for customer segmentation, inform targeted marketing strategies, and optimize advertising campaigns for different customer profiles.
+
 ### Key Questions 
 1. The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 2. They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
