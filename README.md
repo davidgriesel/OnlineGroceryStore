@@ -1,13 +1,10 @@
-# CareerFoundry: Data Analytics Course
-## Achievement 4
-
-### Overview
+# Overview
 Instacart, an online grocery store, aims to refine its marketing strategy by delivering more targeted and relevant campaigns to its customers. To achieve this, they seek a data-driven analysis to uncover insights that will enhance customer segmentation and optimize their marketing efforts.
 
-### Use Case
+# Use Case
 Perform exploratory data analysis of Instacart’s customer purchasing behavior to derive actionable insights for customer segmentation, inform targeted marketing strategies, and optimize advertising campaigns for different customer profiles.
 
-### Key Questions 
+# Key Questions 
 1. The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 2. They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
 3. Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts.
@@ -20,10 +17,10 @@ Perform exploratory data analysis of Instacart’s customer purchasing behavior 
 - What different classifications does the demographic information suggest? 
 - What differences can be uncovered in ordering habits of different customer profiles? 
 
-### Data
+# Data
 The dataset contains information on Instacart's sales departments, products, orders, and customers.
 
-### Skills Demonstrated
+# Skills Demonstrated
 - Project management and organizational skills aligned with industry standards and best practices.
 - Writing clean, well-documented, and consistent Python scripts.
 - Importation, cleaning, transformation, and merging data sets to meet analytical objectives.
@@ -31,7 +28,7 @@ The dataset contains information on Instacart's sales departments, products, ord
 - Preparing a comprehensive final report incorporating data sources and citations, documenting the methodology, presenting findings through clear visualizations, addressing key questions, and offering well-aligned recommendations.
 - Handling sensitive customer data with careful attention to privacy and data ethics.
 
-### Tools used
+# Tools used
 - Python including pandas, NumPy, os, matplotlib, scipy, and seaborn libraries.
 - Anaconda library manager
 - Jupyter notebooks
