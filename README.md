@@ -1,25 +1,32 @@
 # Online Grocery Store
 ## Overview
-Instacart, an online grocery store, aims to refine its marketing strategy by delivering more targeted and relevant campaigns to its customers. To achieve this, they seek a data-driven analysis to uncover insights that will enhance customer segmentation and optimize their marketing efforts.
+An online grocery store that connects with customers through a mobile app aims to refine its marketing strategy through data-driven insights. By deepening their understanding into sales patterns and customer order behaviour, they seek to enhance customer segmentation and optimise marketing efforts.
 
 ## Use Case
-Perform exploratory data analysis of Instacart’s customer purchasing behavior to derive actionable insights for customer segmentation, inform targeted marketing strategies, and optimize advertising campaigns for different customer profiles.
+Enhance marketing effectiveness through exploratory analysis of transactional and customer demographic data, generating insights to optimise advertisement scheduling, refine product placement, and improve customer segmentation to better align with purchasing behaviour.
 
 ## Key Questions 
-1. The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
-2. They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
-3. Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts.
-4. Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
-5. The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
-- What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
-- Are there differences in ordering habits based on a customer’s loyalty status?
-- Are there differences in ordering habits based on a customer’s region?
-- Is there a connection between age and family status in terms of ordering habits?
-- What different classifications does the demographic information suggest? 
-- What differences can be uncovered in ordering habits of different customer profiles? 
+### Order and Sales data
+
+- Which days of the week, and hours of the day have the highest number of orders?
+- Which time of day do customers spend the most?
+- How can products be categorised into price ranges to support marketing strategies?
+- Which product categories and departments have the highest order frequencies?
+
+### Customer Profiling & Segmentation
+
+- How do customer loyalty status and demographic factors such as age, income, family status, and region contribute to customer segmentation?
+- How does ordering behaviour vary across customer profiles and demographic segments in terms of order price, order frequency, and product preferences?
+- What is the relationship between age and family status, and does it have an impact on ordering habits? 
 
 ## Data
-The dataset contains information on Instacart's sales departments, products, orders, and customers.
+The Instacart Online Grocery Shopping Dataset (2017) – An open-source dataset that was accessed via Kaggle from Instacart’s official dataset. The dataset is provided as a spreadsheet with multiple tabs covering different aspects such as departments, aisles, orders, products, and more. It serves as the primary source for analysing sales patterns, product categorisation, and order volumes and frequencies.
+
+Supplementary Fictional Customer Dataset – A fictional dataset provided by CareerFoundry for educational purposes. This dataset contains demographic attributes including customer age, income, region, and family status, which enhance the analysis of customer segmentation and targeted marketing strategies.
+
+##### Links
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017via Kaggle
+"Customer Data" Accessed from https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip via CareerFoundry
 
 ## Skills Demonstrated
 - Project management and organizational skills aligned with industry standards and best practices.
