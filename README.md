@@ -29,15 +29,15 @@ Supplementary Fictional Customer Dataset – A fictional dataset provided by Ca
 "Customer Data" Accessed from https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip via CareerFoundry
 
 ## Skills Demonstrated
-- Project management and organizational skills aligned with industry standards and best practices.
+- Project management and organisational skills aligned with industry standards and best practices.
 - Writing clean, well-documented, and consistent Python scripts.
-- Importation, cleaning, transformation, and merging data sets to meet analytical objectives.
+- Importation, wrangling, cleaning, transformation, and merging data sets to meet analytical objectives.
 - Conducting descriptive checks throughout to uphold the integrity and reliability of the analysis.
-- Preparing a comprehensive final report incorporating data sources and citations, documenting the methodology, presenting findings through clear visualizations, addressing key questions, and offering well-aligned recommendations.
+- Preparing a comprehensive final report incorporating data sources and citations, documenting the methodology followed, addressing key questions, presenting findings through clear visualizations, and offering well-aligned recommendations.
 - Handling sensitive customer data with careful attention to privacy and data ethics.
 
 ## Tools used
-- Python including pandas, NumPy, os, matplotlib, scipy, and seaborn libraries.
+- Python pandas, NumPy, os, matplotlib, scipy, and seaborn libraries
 - Anaconda library manager
 - Jupyter notebooks
 - Excel
