@@ -12,7 +12,7 @@ Perform an exploratory analysis of customer demographics and transactional data 
 - Categorise products into price ranges, and analyse order volumes, spending trends, and product popularity to optimise advertisement scheduling and product placement.
 
 ### Customer Profiling & Behaviour
-'- Profile customers based on ordering behaviour and demographic information and analyse how order habits vary across these profiles.
+- Profile customers based on ordering behaviour and demographic information and analyse how order habits vary across these profiles.
 
 
 ## Key Questions 
