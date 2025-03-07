@@ -41,15 +41,20 @@ A fictional dataset provided by CareerFoundry for educational purposes. This dat
 
 
 ## Skills Demonstrated
-- Project management and organisational skills aligned with industry standards and best practices.
-- Writing clean, well-documented, and consistent Python scripts.
-- Importation, wrangling, cleaning, transformation, and merging data sets to meet analytical objectives.
-- Conducting descriptive checks throughout to uphold the integrity and reliability of the analysis.
-- Preparing a comprehensive final report incorporating data sources and citations, documenting the methodology followed, addressing key questions, presenting findings through clear visualizations, and offering well-aligned recommendations.
-- Handling sensitive customer data with careful attention to privacy and data ethics.
+- Managing projects in alignment with industry standards and best practices.
+- Writing clean, well-documented Python scripts using Jupyter Notebooks and relevant libraries.
+- Wrangling, cleaning, and modelling datasets to meet analytical objectives.
+- Conducting exploratory analysis to understand variable distributions, trends, and relationships.
+- Ensuring analysis reliability through consistency checks and data validation.
+- Using a data dictionary to verify data values and understand their meaning.
+- Creating subsets and deriving new variables.
+- Analysing trends and relationships between variables to derive insights into key questions.
+- Creating meaningful visualisations to support the analysis and communicate results.
+- Summarising results in a coprehensive comprehensive report including recommendations.
+- Handling sensitive customer data responsibly, ensuring compliance with privacy laws
 
  
-## Tools Used
+## Tools
 - Python pandas, NumPy, os, matplotlib, scipy, and seaborn libraries
 - Anaconda library manager
 - Jupyter notebooks
