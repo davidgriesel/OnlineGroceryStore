@@ -2,8 +2,10 @@
 ## Overview
 An online grocery store that connects with customers through a mobile app aims to refine its marketing strategy. By deepening their understanding into the different kinds of customers they have and how their order behaviour differ, they aim to leverage data driven insights to inform a more targeted marketing strategy.
 
+
 ## Goals
 Perform an exploratory analysis of customer demographics and transactional data to gain insights into ordering behaviours, thereby enhancing customer profiling and optimising marketing strategies through targeted product placement.
+
 
 ## Objectives
 ### Ordering Trends
@@ -11,6 +13,7 @@ Perform an exploratory analysis of customer demographics and transactional data 
 
 ### Customer Profiling & Behaviour
 - Profile customers based on ordering behaviour and demographic information and analyse how order habits vary across these profiles.
+
 
 ## Key Questions 
 ### Ordering Trends
@@ -24,6 +27,7 @@ Perform an exploratory analysis of customer demographics and transactional data 
 - How does ordering habits vary across customer profiles?
 - Are there differences in ordering habits between customer profiles?
 
+
 ## Data
 The following data was used in the analysis:
 
@@ -35,6 +39,7 @@ An open-source dataset that was accessed via Kaggle from Instacart's official d
 A fictional dataset provided by CareerFoundry for educational purposes. This dataset contains demographic attributes including customer age, income, region, and family status, which enhance the analysis of customer segmentation and targeted marketing strategies.
 ###### _Accessed from https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip via CareerFoundry_
 
+
 ## Skills Demonstrated
 - Project management and organisational skills aligned with industry standards and best practices.
 - Writing clean, well-documented, and consistent Python scripts.
@@ -43,9 +48,6 @@ A fictional dataset provided by CareerFoundry for educational purposes. This dat
 - Preparing a comprehensive final report incorporating data sources and citations, documenting the methodology followed, addressing key questions, presenting findings through clear visualizations, and offering well-aligned recommendations.
 - Handling sensitive customer data with careful attention to privacy and data ethics.
 
-## Skills Demonstrated
-- Data Wrangling | Cleaning | Modelling | Visualisation
-- Reporting
  
 ## Tools Used
 - Python pandas, NumPy, os, matplotlib, scipy, and seaborn libraries
