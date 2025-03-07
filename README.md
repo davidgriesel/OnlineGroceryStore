@@ -1,31 +1,38 @@
 # Online Grocery Store
 ## Overview
-An online grocery store that connects with customers through a mobile app aims to refine its marketing strategy through data-driven insights. By deepening their understanding into sales patterns and customer order behaviour, they seek to enhance customer segmentation and optimise marketing efforts.
+An online grocery store that connects with customers through a mobile app aims to refine its marketing strategy. By deepening their understanding into the different kinds of customers they have and how their order behaviour differ, they aim to leverage data driven insights to inform a more targeted marketing strategy.
 
-## Use Case
-Enhance marketing effectiveness through exploratory analysis of transactional and customer demographic data, generating insights to optimise advertisement scheduling, refine product placement, and improve customer segmentation to better align with purchasing behaviour.
+## Goals
+Perform an exploratory analysis of customer demographics and transactional data to gain insights into ordering behaviours, thereby enhancing customer profiling and optimising marketing strategies through targeted product placement.
+
+## Objectives
+### Ordering Trends
+- Categorise products into price ranges, and analyse order volumes, spending trends, and product popularity to optimise advertisement scheduling and product placement.
+
+### Customer Profiling & Behaviour
+- Profile customers based on ordering behaviour and demographic information and analyse how order habits vary across these profiles.
 
 ## Key Questions 
-### Order and Sales data
+### Ordering Trends
+- How does order volume fluctuate over time?
+- How does average spending per product vary over time? 
+- How can products be categorised into price ranges to support product placement?
+- Which products, within their respective departments and categories, are ordered the most?
 
-- Which days of the week, and hours of the day have the highest number of orders?
-- Which time of day do customers spend the most?
-- How can products be categorised into price ranges to support marketing strategies?
-- Which product categories and departments have the highest order frequencies?
-
-### Customer Profiling & Segmentation
-
-- How do customer loyalty status and demographic factors such as age, income, family status, and region contribute to customer segmentation?
-- How does ordering behaviour vary across customer profiles and demographic segments in terms of order price, order frequency, and product preferences?
-- What is the relationship between age and family status, and does it have an impact on ordering habits? 
+### Customer Profiling & Behaviour
+- How can ordering behaviour and demographics be used to profile customers?
+- How does ordering habits vary across customer profiles?
+- Are there differences in ordering habits between customer profiles?
 
 ## Data
-The Instacart Online Grocery Shopping Dataset (2017) – An open-source dataset that was accessed via Kaggle from Instacart’s official dataset. The dataset is provided as a spreadsheet with multiple tabs covering different aspects such as departments, aisles, orders, products, and more. It serves as the primary source for analysing sales patterns, product categorisation, and order volumes and frequencies.
+The following data was used in the analysis:
 
+### The Instacart Online Grocery Shopping Dataset (2017)
+An open-source dataset that was accessed via Kaggle from Instacart's official dataset. The dataset is provided as a spreadsheet with multiple tabs covering different aspects such as departments, aisles, orders, products, and more. It serves as the primary source for analysing sales patterns, product categorisation, and order volumes and frequencies.
 ###### _Accessed from www.instacart.com/datasets/grocery-shopping-2017via Kaggle_
 
-Supplementary Fictional Customer Dataset – A fictional dataset provided by CareerFoundry for educational purposes. This dataset contains demographic attributes including customer age, income, region, and family status, which enhance the analysis of customer segmentation and targeted marketing strategies.
-
+### Supplementary Fictional Customer Dataset
+A fictional dataset provided by CareerFoundry for educational purposes. This dataset contains demographic attributes including customer age, income, region, and family status, which enhance the analysis of customer segmentation and targeted marketing strategies.
 ###### _Accessed from https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip via CareerFoundry_
 
 ## Skills Demonstrated
@@ -36,7 +43,11 @@ Supplementary Fictional Customer Dataset – A fictional dataset provided by Ca
 - Preparing a comprehensive final report incorporating data sources and citations, documenting the methodology followed, addressing key questions, presenting findings through clear visualizations, and offering well-aligned recommendations.
 - Handling sensitive customer data with careful attention to privacy and data ethics.
 
-## Tools used
+## Skills Demonstrated
+- Data Wrangling | Cleaning | Modelling | Visualisation
+- Reporting
+ 
+## Tools Used
 - Python pandas, NumPy, os, matplotlib, scipy, and seaborn libraries
 - Anaconda library manager
 - Jupyter notebooks
