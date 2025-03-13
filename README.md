@@ -42,10 +42,10 @@ A fictional dataset provided by CareerFoundry for educational purposes. This dat
 
 ## Skills Demonstrated
 - Managing projects in alignment with industry standards and best practices.
-- Writing clean, well-documented Python scripts using Jupyter Notebooks and relevant libraries.
+- Writing clean, well-documented Python scripts using Anaconda, Jupyter Notebooks, and relevant Python libraries 
 - Wrangling, cleaning, and modelling datasets to meet analytical objectives.
 - Conducting exploratory analysis to understand variable distributions, trends, and relationships.
-- Ensuring analysis reliability through consistency checks and data validation.
+- Ensuring reliability of the analysis through consistency checks and data validation.
 - Using a data dictionary to verify data values and understand their meaning.
 - Creating subsets and deriving new variables.
 - Analysing trends and relationships between variables to derive insights into key questions.
