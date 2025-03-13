@@ -9,7 +9,7 @@ Perform an exploratory analysis of customer demographics and transactional data 
 
 ## Objectives
 ### Ordering Trends
-- Categorise products into price ranges, and analyse order volumes, spending trends, and product popularity to optimise advertisement scheduling and product placement.
+- Analyse order volumes, spending patterns, and product popularity across different price ranges to identify optimal advertisement scheduling and strategic product placement
 
 ### Customer Profiling & Behaviour
 - Profile customers based on ordering behaviour and demographic information and analyse how order habits vary across these profiles.
