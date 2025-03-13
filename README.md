@@ -32,7 +32,7 @@ Perform an exploratory analysis of customer demographics and transactional data 
 The following data was used in the analysis:
 
 ### The Instacart Online Grocery Shopping Dataset (2017)
-An open-source dataset that was accessed via Kaggle from Instacart's official dataset. The dataset is provided as a spreadsheet with multiple tabs covering different aspects such as departments, aisles, orders, products, and more. It serves as the primary source for analysing sales patterns, product categorisation, and order volumes and frequencies.
+An open-source dataset that was accessed via Kaggle from Instacart's official website. The dataset is provided as a spreadsheet with multiple tabs covering different aspects such as departments, aisles, orders, products, and more. It serves as the primary source for analysing sales patterns, product categorisation, and order volumes and frequencies.
 ###### _Accessed from www.instacart.com/datasets/grocery-shopping-2017via Kaggle_
 
 ### Supplementary Fictional Customer Dataset
