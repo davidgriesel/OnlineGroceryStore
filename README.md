@@ -7,35 +7,38 @@ An online grocery store that connects with customers through a mobile app aims t
 Perform an exploratory analysis of customer demographics and transactional data to gain insights into ordering behaviours, thereby enhancing customer profiling and optimising marketing strategies through targeted product placement.
 
 
+## Scope
+The analysis examines data from the 2017 calendar year within the United States.
+
+
 ## Objectives
 ### Ordering Trends
-- Analyse order volumes, spending patterns, and product popularity across different price ranges to identify optimal advertisement scheduling and strategic product placement
+Analyse order volumes, spending patterns, and product popularity across different price ranges to optimise advertisement scheduling and strategic product placement.
 
-### Customer Profiling & Behaviour
-- Profile customers based on ordering behaviour and demographic information and analyse how order habits vary across these profiles.
+### Customer Profiling & Ordering Habits
+Profile customers based on ordering behaviour and demographic information and analyse how order habits vary across these profiles.
 
 
 ## Key Questions 
 ### Ordering Trends
 - How does order volume fluctuate over time?
-- How does average spending per product vary over time? 
+- How does average spending per product vary over time?
 - How can products be categorised into price ranges to support product placement?
-- Which products, within their respective departments and categories, are ordered the most?
+- Which products, within their respective departments and categories, are most popular?
 
-### Customer Profiling & Behaviour
-- How can ordering behaviour and demographics be used to profile customers?
+### Customer Profiling & Ordering Habits
+- How can ordering behaviour and demographic information be used to categorise customers?
 - How does ordering habits vary across customer profiles?
-- Are there differences in ordering habits between customer profiles?
 
 
 ## Data
-The following data was used in the analysis:
+The following datasets from Instacart and CareerFoundry were used in the analysis that cover the 2017 calendar year:
 
-### The Instacart Online Grocery Shopping Dataset (2017)
+### The Instacart Online Grocery Shopping Dataset
 An open-source dataset that was accessed via Kaggle from Instacart's official website. The dataset is provided as a spreadsheet with multiple tabs covering different aspects such as departments, aisles, orders, products, and more. It serves as the primary source for analysing sales patterns, product categorisation, and order volumes and frequencies.
 ###### _Accessed from www.instacart.com/datasets/grocery-shopping-2017via Kaggle_
 
-### Supplementary Fictional Customer Dataset
+### Supplementary Customer dataset
 A fictional dataset provided by CareerFoundry for educational purposes. This dataset contains demographic attributes including customer age, income, region, and family status, which enhance the analysis of customer segmentation and targeted marketing strategies.
 ###### _Accessed from https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip via CareerFoundry_
 
