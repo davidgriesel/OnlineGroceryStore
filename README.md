@@ -61,4 +61,5 @@ A fictional dataset provided by CareerFoundry for educational purposes. This dat
 
 ## Other Links
 [Instacart](www.instacart.com/datasets/grocery-shopping-2017)
+
 [CareerFoundry](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
