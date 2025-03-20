@@ -55,7 +55,10 @@ Profile customers based on ordering behaviour and demographic information and an
 The following datasets from Instacart and CareerFoundry were used in the analysis:
 ### The Instacart Online Grocery Shopping Dataset
 An open-source dataset that was accessed via Kaggle from Instacart's official website. The dataset is provided as a spreadsheet with multiple tabs covering different aspects such as departments, aisles, orders, products, and more. It serves as the primary source for analysing sales patterns, product categorisation, and order volumes and frequencies.
-[Instacart](www.instacart.com/datasets/grocery-shopping-2017)
 ### Supplementary Customer dataset
 A fictional dataset provided by CareerFoundry for educational purposes. This dataset contains demographic attributes including customer age, income, region, and family status, which enhance the analysis of customer segmentation and targeted marketing strategies.
+
+
+## Other Links
+[Instacart](www.instacart.com/datasets/grocery-shopping-2017)
 [CareerFoundry](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
